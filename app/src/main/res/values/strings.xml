@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VimeoTest</string>
+
+    <!-- VIMEO 헬로비즈 계정 클라이언트 정보 -->
+    <string name="vimeo_clientID">5da2fe26383629b7f9600548ad75bc2c6eafcc83</string>
+    <string name="vimeo_clientSecret">/FTSs0F8RIPiTNrSCketB0e/vt33/bcKUiTXxXks/BMGFlwho1o42g/DZOFJaCZBxSYJRmizeSHs6YOmg11MHmMWQDMoq2ZUhwCRveroFfK+6HEL604PfdyWSoTff9oj</string>
+    <string name="vimeo_accessToken">b3e1d76e0feca663e5a49466268d1167</string>
+    <string name="vimeo_scope">public private purchased create edit delete interact upload promo_codes video_files</string>
+
+    <!-- VIMEO 헬로비즈 계정 멤버 ID -->
+    <string name="vimeo_memberID">126387371</string>
+
+</resources>
